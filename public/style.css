@@ -1,0 +1,18 @@
+#template {
+  display: none;
+}
+body {
+  background-color: #222;
+  text-align: center;
+}
+h1 {
+  color:white;
+}
+
+h3 {
+  color:#fff;
+}
+
+li {
+  color:white;
+}
